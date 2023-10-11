@@ -1,0 +1,516 @@
+text,label
+"Pouvez-vous me dire comment dire «je ne parle pas beaucoup espagnol», en espagnol",translate
+Dites-moi comment dire: «C'est une belle matinée» en italien,translate
+"Si j'étais japonais, comment dirais-je que je suis touriste",translate
+Comment dire «hôtel» en finnois,translate
+"J'ai besoin que vous traduisiez la phrase, «nous y serons bientôt» en portugais",translate
+Veuillez me dire comment demander un taxi en français,translate
+Comment dire bonjour en anglais,translate
+La Corée du Nord a-t-elle des alertes de voyage que je devrais être conscientes,travel_alert
+Y a-t-il des alertes de voyage pour la Syrie,travel_alert
+Y a-t-il une alerte de voyage pour la Russie,travel_alert
+Est-il sûr de se rendre en Islande,travel_alert
+Parlez-moi des alertes de voyage émises pour l'Allemagne,travel_alert
+Y a-t-il des nouvelles sur le vol DL123,flight_status
+Quand allons-nous commencer à monter à bord de mon vol prévu,flight_status
+Quand mon vol décollera-t-il,flight_status
+Quand mon vol atterrira-t-il,flight_status
+quelle est la porte d'embarquement pour mon vol AF847,flight_status
+Quand vais-je arriver à destination,flight_status
+Localiser les bagages perdus de Flight America Airlines à O'Hare,lost_luggage
+Perte des bagages sur Flight America Airlines à O'Hare,lost_luggage
+Je pense que mes bagages ont été perdus,lost_luggage
+"Mes bagages sont manquants, j'étais sur le vol Frontier AB123 depuis Seattle",lost_luggage
+"Aide, j'ai perdu mes bagages",lost_luggage
+Savez-vous qui je devrais contacter car mes valises ne sont pas arrivées,lost_luggage
+À qui dois-je me plaindre que mes bagages n'arrivent pas à l'aéroport,lost_luggage
+Veuillez suggérer des activités touristiques amusantes à Tokyo,travel_suggestion
+"Si je vais à Evans, que dois-je faire",travel_suggestion
+Quels sont les bons restaurants à Chicago,travel_suggestion
+où devrais-je passer mon temps libre,travel_suggestion
+Que puis-je faire à Nashville,travel_suggestion
+Donnez-moi une liste de choses à faire à Orlando,travel_suggestion
+Où est la meilleure cave du sud de la France,travel_suggestion
+Y a-t-il des activités touristiques amusantes en Australie,travel_suggestion
+Voulez-vous me faire part des restrictions de bagage à main pour American Airlines,carry_on
+Restrictions de cabine pour les émirats arabes unis,carry_on
+Qu'est-ce que je suis autorisé à prendre en cabine avec American Airlines,carry_on
+Y a-t-il une limite de poids pour mon bagage à main,carry_on
+Combien de bagages à main puis-je prendre pendant un vol avec United pour Lax,carry_on
+Quelles sont les règles concernant les bagages à main pour les vols Virgin Airlines,carry_on
+Y a-t-il une limite de poids de bagage cabine,carry_on
+Dois-je payer pour mes bagages à main,carry_on
+Réservez-moi une chambre du 11 au 15 novembre à Cali,book_hotel
+Trouvez-moi un endroit où séjourner à Cali du 11 au 15 novembre,book_hotel
+Quels hôtels ont des critiques décentes à Bangor,book_hotel
+Veuillez me trouver une chambre d'hôtel pour 4 personnes du lundi au mercredi à Lakewood,book_hotel
+"Trouvez un hôtel Columbus, Ohio avec de bonnes critiques",book_hotel
+"S'il vous plaît, aidez-moi à réserver un endroit où séjourner à Pittsburgh du lundi au vendredi",book_hotel
+J'ai besoin d'une chambre d'hôtel assez grande pour 4 personnes du lundi au mercredi à Lakewood,book_hotel
+Trouvez-moi des vols aller-retour de LAX vers SFOX,book_flight
+Réservez un vol de Chicago à DC lundi et revenant mercredi,book_flight
+Je recherche un vol aller-retour de AAF à DIA du 23 février au 28 février,book_flight
+Pourriez-vous faire une réservation de vol avec Air Emirates d'Orlando à Londres,book_flight
+J'ai besoin de réserver un vol aller-retour de Dallas à Los Angeles du 2 au 10 mars,book_flight
+Je voudrais savoir quels vols sont disponibles sur El Paso à Dallas le 10 juin pour moins de 300 $,book_flight
+Combien coûte des frais de découvert pour la banque,out_of_scope
+Quelle taille d'essuie-glace cette voiture prend-t-elle,out_of_scope
+Quel est le plus grand état des États-Unis,out_of_scope
+Quelle est la compagnie aérienne la plus populaire,out_of_scope
+Combien de planètes avons-nous découvert,out_of_scope
+Combien de côtés dans un hexagone,out_of_scope
+Combien de temps dure l'hiver,out_of_scope
+qui est l'entraîneur des Chicago Bulls,out_of_scope
+Combien d'Oscars ont gagné les films Star Wars,out_of_scope
+Veuillez trouver la capitale du Pakistan ,out_of_scope
+qui est le personnage le plus effrayant de Start Trek,out_of_scope
+Quelle est la durée de vie de la batterie moyenne d'un téléphone Android,out_of_scope
+Quand Camus est-il mort,out_of_scope
+Quand Nintendo a-t-il été créé,out_of_scope
+Quel personnage Marvel est apparu dans le plus de films,out_of_scope
+Quels sont les avantages de terminer le lycée,out_of_scope
+Pouvez-vous me dire à quelle vitesse moyenne l'avion vers la Californie va,out_of_scope
+Est-il possible de louer une voiture à la Laguardia du mardi au vendredi,out_of_scope
+Que vaut un dollar au Mexique,out_of_scope
+Quel est le taux de change entre l'USD et l'euro,out_of_scope
+Pouvez-vous me dire le fuseau horaire à San Francisco,out_of_scope
+"Je ne comprends pas cette langue, pouvez-vous m'aider?",translate
+Pouvez-vous me donner le sens de cette expression?,translate
+Je souhaite convertir ce texte en anglais,translate
+Comment dit-on cela en espagnol?,translate
+J'aimerais une version en français s'il vous plaît.,translate
+Cela a-t-il un équivalent en allemand?,translate
+Pouvez-vous m'aider à traduire ce document?,translate
+J'aurais besoin de cette phrase en italien.,translate
+Pouvez-vous me traduire ce mot en chinois?,translate
+Pourriez-vous rendre cette phrase en japonais?,translate
+Quelle est la traduction de ce mot en russe?,translate
+J'aimerais savoir ce que cela signifie en arabe.,translate
+Comment se dit cela en néerlandais?,translate
+J'ai besoin de cette phrase en portugais.,translate
+Pouvez-vous me traduire cette expression en coréen?,translate
+"Je ne parle pas cette langue, pouvez-vous la traduire?",translate
+Pouvez-vous rendre cela en hébreu?,translate
+"J'aurais besoin de la version en grec, s'il vous plaît.",translate
+Comment dit-on cela en turc?,translate
+Pouvez-vous me traduire cette phrase en suédois?,translate
+Pourriez-vous m'aider avec une traduction en hindi?,translate
+Quelle est la signification de ce mot en polonais?,translate
+J'aimerais savoir comment dire cela en norvégien.,translate
+Comment se dit cela en finnois?,translate
+Pouvez-vous me donner la traduction en danois?,translate
+"J'ai besoin de cette phrase en tchèque, s'il vous plaît.",translate
+"Je ne connais pas cette langue, pouvez-vous me la traduire?",translate
+Pouvez-vous rendre cela en bulgare?,translate
+Comment dit-on cela en roumain?,translate
+Pouvez-vous me traduire ce texte en hongrois?,translate
+J'aimerais avoir une version en croate.,translate
+Quelle est la traduction de cette expression en slovaque?,translate
+Pouvez-vous m'aider à traduire ce paragraphe en suisse-allemand?,translate
+J'aurais besoin de cette phrase en catalan.,translate
+Comment se dit cela en vietnamien?,translate
+Pouvez-vous me donner la traduction en indonésien?,translate
+"Je ne comprends pas cette langue, pouvez-vous la traduire?",translate
+Pouvez-vous rendre cela en thaïlandais?,translate
+J'aimerais savoir comment dire cela en tibétain.,translate
+Comment dit-on cela en gaelic écossais?,translate
+Pouvez-vous me traduire cette expression en tagalog?,translate
+"J'ai besoin de cette phrase en lituanien, s'il vous plaît.",translate
+Pouvez-vous me donner la traduction en estonien?,translate
+Quelle est la signification de ce mot en letton?,translate
+Comment se dit cela en ukrainien?,translate
+Pouvez-vous me traduire ce texte en géorgien?,translate
+J'aimerais avoir une version en mongol.,translate
+Pourriez-vous m'aider avec une traduction en swahili?,translate
+"Je ne connais pas cette langue, pouvez-vous me la traduire?",translate
+Pouvez-vous rendre cela en yiddish?,translate
+Comment dit-on cela en espéranto?,translate
+Y a-t-il des préoccupations actuelles pour ma destination?,travel_alert
+Est-il sûr de voyager dans cette région en ce moment?,travel_alert
+Pouvez-vous me donner des informations sur les conditions locales?,travel_alert
+"Je prévois de partir bientôt, devrais-je m'inquiéter de quelque chose?",travel_alert
+Quelles sont les recommandations pour les voyageurs dans ce pays?,travel_alert
+Est-ce que des problèmes de sécurité ont été signalés dans cette zone récemment?,travel_alert
+Je voulais en savoir plus sur la situation sur place.,travel_alert
+Y a-t-il des restrictions de voyage en vigueur actuellement?,travel_alert
+"Je me demande si ma destination est sujette à des problèmes, pouvez-vous m'aider?",travel_alert
+Quelles sont les conditions actuelles dans ce pays en ce qui concerne les voyages?,travel_alert
+"Je prévois de voyager là-bas, y a-t-il des problèmes à signaler?",travel_alert
+Dois-je prendre des précautions particulières pour ce voyage?,travel_alert
+Pouvez-vous me donner des informations sur la sécurité dans cette région?,travel_alert
+"Je vais bientôt voyager, devrais-je m'inquiéter de la situation?",travel_alert
+Quelle est la situation actuelle pour les voyageurs dans cette région?,travel_alert
+Y a-t-il des alertes spécifiques pour les voyageurs se rendant là-bas?,travel_alert
+Je suis curieux de savoir s'il y a des problèmes de sécurité dans cette destination.,travel_alert
+Quels sont les conseils pour les voyageurs se rendant dans ce pays?,travel_alert
+Est-il sûr de voyager dans cette zone en ce moment?,travel_alert
+Pouvez-vous me donner des informations sur les risques pour les voyageurs?,travel_alert
+Je souhaite obtenir des détails sur la situation actuelle à ma destination.,travel_alert
+Y a-t-il des avertissements pour les voyageurs se rendant là-bas?,travel_alert
+Dois-je être préoccupé par la situation dans cette région?,travel_alert
+Quels sont les derniers avis de voyage pour cette destination?,travel_alert
+Je me demandais si je devrais reporter mon voyage à cause de problèmes possibles.,travel_alert
+Est-ce que quelque chose de préoccupant se passe dans cette région?,travel_alert
+Pouvez-vous me mettre à jour sur la sécurité à ma destination?,travel_alert
+"Je prévois de partir, mais je veux m'assurer que c'est sûr, pouvez-vous m'aider?",travel_alert
+Y a-t-il des alertes de voyage pour cette destination?,travel_alert
+Quelle est la situation actuelle en ce qui concerne les voyages dans ce pays?,travel_alert
+"Je suis sur le point de voyager, mais je veux être sûr que c'est sans danger.",travel_alert
+Est-ce que quelque chose de particulier se passe dans cette région?,travel_alert
+Pouvez-vous me donner des informations sur les voyages dans cette zone?,travel_alert
+"Je prévois de me rendre là-bas, mais je veux connaître la situation.",travel_alert
+Y a-t-il des avertissements que je devrais connaître avant de partir?,travel_alert
+Quels sont les avis récents sur la sécurité à ma destination?,travel_alert
+Je me demande si ma destination est sûre en ce moment.,travel_alert
+Est-ce que quelque chose nécessite une attention particulière dans cette région?,travel_alert
+Pouvez-vous me mettre à jour sur les conditions de voyage à cet endroit?,travel_alert
+"Je prévois un voyage là-bas, mais je veux m'assurer que c'est sans risque.",travel_alert
+Y a-t-il des alertes spécifiques pour les voyageurs se rendant dans cette zone?,travel_alert
+Quelle est la situation actuelle en ce qui concerne les voyages dans ce pays?,travel_alert
+Je me demande s'il y a des problèmes de sécurité à ma destination.,travel_alert
+Est-ce que quelque chose de préoccupant se passe dans cette région?,travel_alert
+Pouvez-vous me donner des informations sur les voyages dans cette zone?,travel_alert
+"Je prévois de me rendre là-bas, mais je veux connaître la situation.",travel_alert
+Y a-t-il des avertissements que je devrais connaître avant de partir?,travel_alert
+Quels sont les avis récents sur la sécurité à ma destination?,travel_alert
+Je me demande si ma destination est sûre en ce moment.,travel_alert
+Est-ce que quelque chose nécessite une attention particulière dans cette région?,travel_alert
+Pouvez-vous me mettre à jour sur les conditions de voyage à cet endroit?,travel_alert
+"Je prévois un voyage là-bas, mais je veux m'assurer que c'est sans risque.",travel_alert
+Pouvez-vous me donner des informations sur mon itinéraire?,flight_status
+Je veux savoir si mon avion est à l'heure.,flight_status
+Quelle est la situation de mon prochain vol?,flight_status
+Y a-t-il des retards sur mon vol prévu?,flight_status
+Est-ce que mon voyage est ponctuel?,flight_status
+Je veux savoir si mon départ est programmé à l'heure.,flight_status
+Quelle est la situation pour mon voyage à destination?,flight_status
+Pouvez-vous me dire si mon vol est en avance ou en retard?,flight_status
+Je veux vérifier l'heure de mon vol.,flight_status
+Est-ce que mon avion a du retard?,flight_status
+Quelle est la ponctualité de mon itinéraire?,flight_status
+Pouvez-vous me donner des informations sur mon trajet?,flight_status
+Je souhaite connaître l'état de mon vol.,flight_status
+Est-ce que mon départ est à l'heure prévue?,flight_status
+Quelle est la situation de mon vol à destination?,flight_status
+Pouvez-vous me dire si mon vol est à l'heure?,flight_status
+Je veux savoir si mon avion a des problèmes de retard.,flight_status
+Est-ce que mon voyage est en conformité avec l'horaire?,flight_status
+Quelle est la situation actuelle de mon itinéraire?,flight_status
+Pouvez-vous me donner des détails sur mon vol?,flight_status
+Je souhaite obtenir des informations sur mon voyage.,flight_status
+Est-ce que mon avion a des problèmes de timing?,flight_status
+Quelle est la ponctualité de mon départ?,flight_status
+Pouvez-vous me dire si mon vol est retardé?,flight_status
+Je veux vérifier si mon voyage est à l'heure.,flight_status
+Est-ce que mon vol est à l'heure prévue?,flight_status
+Quelle est la situation de mon trajet à destination?,flight_status
+Pouvez-vous me donner des informations sur mon itinéraire de voyage?,flight_status
+Je souhaite connaître le statut de mon vol.,flight_status
+Est-ce que mon départ est à l'heure convenue?,flight_status
+Quelle est la situation de mon vol à destination?,flight_status
+Pouvez-vous me dire si mon vol est ponctuel?,flight_status
+Je veux savoir si mon avion a des retards.,flight_status
+Est-ce que mon voyage est en avance ou en retard?,flight_status
+Quelle est la ponctualité de mon itinéraire de voyage?,flight_status
+Pouvez-vous me donner des détails sur l'heure de mon vol?,flight_status
+Je souhaite obtenir des informations sur mon voyage en avion.,flight_status
+Est-ce que mon avion a des problèmes de timing?,flight_status
+Quelle est la situation de mon départ en avion?,flight_status
+Pouvez-vous me dire si mon vol est en retard ou à l'heure?,flight_status
+Je veux vérifier si mon voyage en avion est à l'heure.,flight_status
+Est-ce que mon vol est programmé à l'heure prévue?,flight_status
+Quelle est la situation de mon itinéraire de voyage en avion?,flight_status
+Pouvez-vous me donner des informations sur mon vol sans escale?,flight_status
+Je souhaite connaître le statut de mon vol à destination.,flight_status
+Est-ce que mon départ en avion est à l'heure convenue?,flight_status
+Quelle est la situation de mon vol vers ma destination?,flight_status
+Pouvez-vous me dire si mon vol est en conformité avec l'horaire?,flight_status
+Je veux savoir si mon avion a des retards de vol.,flight_status
+Est-ce que mon voyage en avion est en avance ou en retard?,flight_status
+Quelle est la ponctualité de mon itinéraire de vol?,flight_status
+Pouvez-vous me donner des détails sur mon vol à l'international?,flight_status
+Je souhaite obtenir des informations sur mon vol intérieur.,flight_status
+Est-ce que mon avion a des problèmes de timing de vol?,flight_status
+"J'ai un problème avec mes affaires, pouvez-vous m'aider?",lost_luggage
+"Je ne trouve pas mes affaires, que dois-je faire?",lost_luggage
+"Il semble que mes bagages aient disparu, que faire?",lost_luggage
+Est-ce que vous pouvez me donner des informations sur mes bagages manquants?,lost_luggage
+"Mes affaires sont introuvables, pouvez-vous me guider?",lost_luggage
+Je ne retrouve pas mes affaires depuis mon vol.,lost_luggage
+Pouvez-vous m'aider à résoudre mon problème de bagages?,lost_luggage
+"J'ai perdu mes affaires, que faire maintenant?",lost_luggage
+Est-ce que mes bagages sont en sécurité?,lost_luggage
+"Je ne peux pas localiser mes bagages, pouvez-vous m'aider?",lost_luggage
+Que se passe-t-il si mes affaires sont perdues?,lost_luggage
+"J'ai un souci avec mes valises, que dois-je faire?",lost_luggage
+"Je pense que mes bagages sont égarés, comment le vérifier?",lost_luggage
+Est-ce que vous pouvez me donner des conseils sur la perte de bagages?,lost_luggage
+Je crains que mes affaires ne soient pas dans la soute à bagages.,lost_luggage
+Pouvez-vous me guider sur la procédure à suivre pour des bagages perdus?,lost_luggage
+Que se passe-t-il si mes bagages ne sont pas là à l'arrivée?,lost_luggage
+Mes affaires ne sont pas dans la salle de récupération des bagages.,lost_luggage
+J'ai besoin d'aide pour retrouver mes bagages manquants.,lost_luggage
+Est-ce que vous pouvez m'informer sur la procédure de perte de bagages?,lost_luggage
+"Je ne vois pas mes valises, que devrais-je faire?",lost_luggage
+Que faire si mes bagages ne sont pas sur le tapis roulant?,lost_luggage
+Pouvez-vous me donner des informations sur la perte de mes bagages?,lost_luggage
+Mes affaires ne sont pas là où je les ai laissées.,lost_luggage
+"J'ai un problème avec mes affaires perdues, comment le résoudre?",lost_luggage
+Est-ce que mes bagages sont en retard?,lost_luggage
+Je ne retrouve pas mes bagages depuis mon dernier vol.,lost_luggage
+Pouvez-vous m'aider à localiser mes bagages égarés?,lost_luggage
+Que se passe-t-il si mes affaires ne sont pas dans ma chambre d'hôtel?,lost_luggage
+"Mes valises ne sont pas dans ma chambre d'hôtel, que faire?",lost_luggage
+"J'ai un souci avec mes bagages manquants, comment le régler?",lost_luggage
+Je crains que mes affaires ne soient pas là où je les ai laissées.,lost_luggage
+Pouvez-vous m'informer sur la procédure de perte de bagages à l'hôtel?,lost_luggage
+Que faire si mes bagages ne sont pas dans ma chambre d'hôtel?,lost_luggage
+"Mes affaires ne sont pas dans le taxi, que devrais-je faire?",lost_luggage
+Est-ce que mes bagages ont été égarés pendant le transfert?,lost_luggage
+Je ne peux pas localiser mes bagages après avoir quitté le taxi.,lost_luggage
+Pouvez-vous m'aider à retrouver mes bagages perdus après le transfert?,lost_luggage
+Que se passe-t-il si mes affaires ne sont pas dans la navette de l'aéroport?,lost_luggage
+"J'ai un problème avec mes valises manquantes après le transfert, que faire?",lost_luggage
+Je crains que mes affaires ne soient pas dans la navette de l'aéroport.,lost_luggage
+Pouvez-vous m'informer sur la procédure de perte de bagages lors du transfert?,lost_luggage
+Que faire si mes bagages ne sont pas dans la voiture de location?,lost_luggage
+"Mes valises ne sont pas dans la voiture de location, que devrais-je faire?",lost_luggage
+"J'ai un souci avec mes bagages manquants après la location de voiture, comment le régler?",lost_luggage
+Je ne peux pas localiser mes bagages après avoir quitté la voiture de location.,lost_luggage
+Est-ce que mes bagages ont été égarés pendant le trajet en voiture de location?,lost_luggage
+"Je prévois un voyage, pouvez-vous m'aider à planifier?",travel_suggestion
+Quels endroits recommandez-vous pour des vacances?,travel_suggestion
+Pouvez-vous me donner des idées de destinations à visiter?,travel_suggestion
+J'aimerais avoir des conseils sur où aller en vacances.,travel_suggestion
+"Je recherche des idées de voyages, pouvez-vous m'aider?",travel_suggestion
+Quels sont les endroits incontournables à visiter?,travel_suggestion
+Je suis à la recherche d'inspiration pour mon prochain voyage.,travel_suggestion
+Pouvez-vous me suggérer des destinations intéressantes?,travel_suggestion
+J'aimerais connaître les meilleures options de voyage.,travel_suggestion
+Avez-vous des recommandations pour des voyages en famille?,travel_suggestion
+"Je veux des idées pour un week-end romantique, pouvez-vous m'aider?",travel_suggestion
+Quelles sont les destinations populaires en ce moment?,travel_suggestion
+"Je souhaite explorer de nouveaux endroits, pouvez-vous me conseiller?",travel_suggestion
+Pouvez-vous me recommander des lieux authentiques à visiter?,travel_suggestion
+"Je suis à la recherche de destinations exotiques, pouvez-vous m'en dire plus?",travel_suggestion
+Quels sont les endroits à ne pas manquer dans cette région?,travel_suggestion
+"Je veux des suggestions pour des vacances actives, pouvez-vous aider?",travel_suggestion
+Avez-vous des recommandations pour un voyage en solo?,travel_suggestion
+"Je recherche des idées de voyages abordables, pouvez-vous me guider?",travel_suggestion
+Quelles sont les destinations les plus prisées pour la détente?,travel_suggestion
+"Je veux des conseils pour un voyage culturel, que pouvez-vous me dire?",travel_suggestion
+Avez-vous des suggestions pour des escapades de week-end?,travel_suggestion
+"Je suis à la recherche d'options de voyage pour un groupe, pouvez-vous recommander?",travel_suggestion
+Quelles sont les destinations tendance pour les amateurs de gastronomie?,travel_suggestion
+"Je souhaite partir en voyage d'aventure, pouvez-vous me donner des idées?",travel_suggestion
+Pouvez-vous me suggérer des lieux peu fréquentés par les touristes?,travel_suggestion
+"Je veux des recommandations pour des vacances en plein air, pouvez-vous aider?",travel_suggestion
+Quels sont les endroits parfaits pour des vacances en bord de mer?,travel_suggestion
+"Je recherche des idées pour un voyage en amoureux, que proposez-vous?",travel_suggestion
+Avez-vous des suggestions pour des destinations historiques?,travel_suggestion
+"Je suis à la recherche de voyages uniques, pouvez-vous me conseiller?",travel_suggestion
+Pouvez-vous recommander des endroits insolites à découvrir?,travel_suggestion
+"Je veux des idées pour un voyage tranquille, pouvez-vous me guider?",travel_suggestion
+Quelles sont les destinations les plus adaptées aux familles?,travel_suggestion
+"Je souhaite explorer des endroits hors des sentiers battus, que suggérez-vous?",travel_suggestion
+Avez-vous des recommandations pour des vacances de luxe?,travel_suggestion
+"Je recherche des idées de voyages éducatifs, pouvez-vous m'aider?",travel_suggestion
+Pouvez-vous me suggérer des destinations pour des aventures en plein air?,travel_suggestion
+Quels sont les endroits idéaux pour des vacances de détente?,travel_suggestion
+"Je veux des conseils pour un voyage artistique, que pouvez-vous me recommander?",travel_suggestion
+Avez-vous des suggestions pour des escapades urbaines?,travel_suggestion
+"Je suis à la recherche d'options de voyage abordables, pouvez-vous m'aider?",travel_suggestion
+Pouvez-vous recommander des destinations pour des voyages spirituels?,travel_suggestion
+Quelles sont les destinations les plus prisées pour les amateurs de vin?,travel_suggestion
+"Je souhaite partir en voyage de randonnée, pouvez-vous me donner des idées?",travel_suggestion
+Avez-vous des recommandations pour des escapades de luxe?,travel_suggestion
+"Je recherche des idées de voyages culinaires, pouvez-vous me guider?",travel_suggestion
+Pouvez-vous me suggérer des lieux pittoresques à explorer?,travel_suggestion
+Quels sont les articles autorisés en cabine?,carry_on
+Pouvez-vous me renseigner sur ce que je peux emporter en avion?,carry_on
+"Je veux savoir ce que je peux apporter dans l'avion, pouvez-vous m'aider?",carry_on
+Quels sont les règlements pour les bagages en cabine?,carry_on
+Est-ce que je peux emporter des liquides dans mes bagages à main?,carry_on
+Je cherche des informations sur les articles permis en cabine.,carry_on
+Pouvez-vous me dire ce que je suis autorisé à apporter en avion?,carry_on
+Quelles sont les restrictions pour les bagages à main?,carry_on
+Est-ce que je peux emporter des objets tranchants dans l'avion?,carry_on
+Je souhaite connaître les règles pour les bagages en cabine.,carry_on
+Pouvez-vous me donner des conseils sur les bagages à main?,carry_on
+Quels sont les objets interdits en cabine?,carry_on
+Est-ce que je peux emporter des médicaments dans mes bagages à main?,carry_on
+Je veux des informations sur ce que je peux transporter en avion.,carry_on
+Pouvez-vous me renseigner sur les exigences pour les bagages à main?,carry_on
+Quelles sont les restrictions pour les liquides en cabine?,carry_on
+Est-ce que je peux emporter des produits de beauté dans l'avion?,carry_on
+Je cherche des détails sur les règles pour les bagages en cabine.,carry_on
+Pouvez-vous me dire ce que je peux mettre dans mes bagages à main?,carry_on
+Quels sont les articles non autorisés en cabine?,carry_on
+Est-ce que je peux emporter de la nourriture dans l'avion?,carry_on
+Je souhaite connaître les directives pour les bagages à main.,carry_on
+Pouvez-vous me donner des informations sur les bagages à main sans enregistrer?,carry_on
+Quelles sont les règles concernant les liquides en cabine?,carry_on
+Est-ce que je peux emporter des appareils électroniques dans mes bagages à main?,carry_on
+Je veux des conseils sur ce que je peux emporter en avion.,carry_on
+Pouvez-vous me renseigner sur les exigences pour les bagages à main en cabine?,carry_on
+Quels sont les objets prohibés en cabine?,carry_on
+Est-ce que je peux emporter des produits de soins personnels dans l'avion?,carry_on
+Je cherche des détails sur les règles pour les bagages à main en cabine.,carry_on
+Pouvez-vous me dire ce que je suis autorisé à apporter en avion sans les enregistrer?,carry_on
+Quelles sont les restrictions pour les articles tranchants en cabine?,carry_on
+Est-ce que je peux emporter des liquides médicaux dans mes bagages à main?,carry_on
+Je souhaite connaître les directives pour les bagages à main à bord de l'avion.,carry_on
+Pouvez-vous me donner des informations sur les bagages à main et leur poids autorisé?,carry_on
+Quels sont les objets non autorisés en cabine?,carry_on
+Est-ce que je peux emporter des articles de toilette dans l'avion?,carry_on
+Je veux des conseils sur ce que je peux emporter en avion en tant que bagage à main.,carry_on
+Pouvez-vous me renseigner sur les exigences pour les bagages à main et leur taille?,carry_on
+Quelles sont les règles pour les liquides en cabine?,carry_on
+Est-ce que je peux emporter des médicaments sur moi dans l'avion?,carry_on
+Je cherche des détails sur les règles pour les bagages à main et leur poids autorisé.,carry_on
+Pouvez-vous me dire ce que je suis autorisé à apporter en avion comme bagage à main sans les enregistrer?,carry_on
+Quels sont les articles interdits en cabine?,carry_on
+Est-ce que je peux emporter des articles de maquillage dans mes bagages à main?,carry_on
+Je souhaite connaître les directives pour les bagages à main en cabine et leur taille.,carry_on
+Pouvez-vous me donner des informations sur les bagages à main et leur poids autorisé en classe économique?,carry_on
+Je souhaite trouver un endroit où séjourner pour mon voyage.,book_hotel
+Pouvez-vous m'aider à organiser un logement pour ma prochaine escapade?,book_hotel
+Je recherche un hébergement pour mon voyage à venir.,book_hotel
+Quels sont les endroits où je peux rester pendant mon voyage?,book_hotel
+Est-ce que vous pouvez me donner des recommandations d'hébergement?,book_hotel
+Je cherche un endroit confortable pour passer la nuit.,book_hotel
+Pouvez-vous me suggérer des options d'hébergement?,book_hotel
+J'aimerais trouver un lieu où loger lors de mon déplacement.,book_hotel
+Est-ce que vous avez des suggestions pour l'hébergement?,book_hotel
+Je suis à la recherche d'un lieu de séjour pour mes vacances.,book_hotel
+Pouvez-vous me donner des informations sur les logements disponibles?,book_hotel
+Quels sont les types d'hébergement disponibles dans la région?,book_hotel
+Je souhaite trouver un endroit où dormir pendant mon voyage.,book_hotel
+Est-ce que vous pouvez m'aider à localiser un lieu d'hébergement?,book_hotel
+Je cherche un lieu où passer la nuit pendant mon déplacement.,book_hotel
+Pouvez-vous me donner des suggestions d'endroits où séjourner?,book_hotel
+J'aimerais trouver un endroit agréable pour mon séjour.,book_hotel
+Est-ce que vous avez des recommandations d'hôtels ou d'hébergements?,book_hotel
+Je suis à la recherche d'un logement pour mes prochaines vacances.,book_hotel
+Pouvez-vous me renseigner sur les options d'hébergement dans la région?,book_hotel
+Quels sont les hébergements disponibles pour mon voyage?,book_hotel
+Je souhaite réserver un endroit où dormir pendant mon voyage.,book_hotel
+Est-ce que vous pouvez m'aider à trouver un lieu de séjour?,book_hotel
+Je cherche un lieu d'hébergement pour ma prochaine escapade.,book_hotel
+Pouvez-vous me suggérer des options d'hôtels ou d'hébergements?,book_hotel
+J'aimerais trouver un endroit confortable pour mon séjour.,book_hotel
+Est-ce que vous avez des recommandations pour l'hébergement en vacances?,book_hotel
+Je suis à la recherche d'un lieu où loger pour mon déplacement à venir.,book_hotel
+Pouvez-vous me donner des informations sur les logements disponibles dans la région?,book_hotel
+Quels sont les types d'hébergement que je peux trouver?,book_hotel
+Je souhaite trouver un endroit où séjourner lors de mon voyage.,book_hotel
+Est-ce que vous pouvez m'aider à localiser un lieu d'hébergement pour ma prochaine escapade?,book_hotel
+Je cherche un lieu où passer la nuit pour mes prochaines vacances.,book_hotel
+Pouvez-vous me donner des suggestions d'endroits où séjourner en vacances?,book_hotel
+J'aimerais trouver un endroit agréable pour ma nuitée.,book_hotel
+Est-ce que vous avez des recommandations d'hôtels ou d'hébergements pour mon séjour?,book_hotel
+Je suis à la recherche d'un logement pour ma prochaine escapade.,book_hotel
+Pouvez-vous me renseigner sur les options d'hébergement disponibles?,book_hotel
+Quels sont les hébergements que je peux réserver pour mon voyage?,book_hotel
+Je souhaite réserver un endroit où dormir pendant mes vacances.,book_hotel
+Est-ce que vous pouvez m'aider à trouver un lieu de séjour pour mon séjour à venir?,book_hotel
+Je cherche un lieu d'hébergement pour mon déplacement futur.,book_hotel
+Pouvez-vous me suggérer des options d'hôtels ou d'hébergements pour mon voyage?,book_hotel
+J'aimerais trouver un endroit confortable pour mon voyage.,book_hotel
+Est-ce que vous avez des recommandations d'hébergement pour mes prochaines vacances?,book_hotel
+Je suis à la recherche d'un lieu où loger pour mon voyage à venir.,book_hotel
+Pouvez-vous me donner des informations sur les logements disponibles pour mon séjour?,book_hotel
+Quels sont les types d'hébergement que je peux trouver pour mon déplacement?,book_hotel
+Je souhaite planifier mon voyage en avion.,book_flight
+Pouvez-vous m'aider à organiser mon déplacement en avion?,book_flight
+Je veux trouver des options pour mon prochain voyage en avion.,book_flight
+Quelles sont les possibilités de transport pour ma prochaine escapade?,book_flight
+Est-ce que vous pouvez me donner des informations sur les vols disponibles?,book_flight
+Je recherche des moyens de déplacement pour mon prochain déplacement.,book_flight
+Pouvez-vous me suggérer des choix de transport pour ma prochaine aventure?,book_flight
+J'aimerais planifier un vol pour ma prochaine destination.,book_flight
+Est-ce que vous avez des recommandations de transport aérien?,book_flight
+Je suis à la recherche d'options de voyage pour mes prochaines vacances.,book_flight
+Pouvez-vous me donner des informations sur les moyens de déplacement en avion?,book_flight
+Quels sont les types de déplacement aérien disponibles?,book_flight
+Je souhaite trouver un moyen de transport aérien pour mon voyage à venir.,book_flight
+Est-ce que vous pouvez m'aider à localiser un vol pour ma prochaine escapade?,book_flight
+Je cherche des moyens de transport pour mes prochaines vacances.,book_flight
+Pouvez-vous me suggérer des choix de vol pour mon séjour?,book_flight
+J'aimerais planifier un voyage en avion pour ma prochaine aventure.,book_flight
+Est-ce que vous avez des recommandations de vol pour mes prochaines vacances?,book_flight
+Je suis à la recherche d'options de déplacement en avion pour mon déplacement à venir.,book_flight
+Pouvez-vous me donner des informations sur les vols disponibles pour mon voyage?,book_flight
+Quels sont les moyens de transport aérien que je peux trouver pour mon séjour?,book_flight
+Je souhaite réserver un vol pour ma prochaine destination.,book_flight
+Est-ce que vous pouvez m'aider à trouver un moyen de transport aérien pour mon séjour à venir?,book_flight
+Je cherche des options de voyage en avion pour ma prochaine escapade.,book_flight
+Pouvez-vous me suggérer des choix de déplacement aérien?,book_flight
+J'aimerais planifier un déplacement en avion pour mes prochaines vacances.,book_flight
+Est-ce que vous avez des recommandations de vol pour mon prochain déplacement?,book_flight
+Je suis à la recherche d'options de voyage en avion pour mon voyage à venir.,book_flight
+Pouvez-vous me donner des informations sur les vols sans escale disponibles?,book_flight
+Quels sont les types de vols que je peux trouver pour mes prochaines vacances?,book_flight
+Je souhaite trouver un vol pour mon voyage en avion.,book_flight
+Est-ce que vous pouvez m'aider à localiser un moyen de transport aérien pour ma prochaine aventure?,book_flight
+Je cherche des moyens de déplacement pour mes prochaines vacances en avion.,book_flight
+Pouvez-vous me suggérer des choix de transport aérien sans escale pour mon séjour?,book_flight
+J'aimerais planifier un vol direct pour ma prochaine escapade.,book_flight
+Est-ce que vous avez des recommandations de vol sans escale pour mes prochaines vacances?,book_flight
+Je suis à la recherche d'options de voyage en avion sans escale pour mon déplacement à venir.,book_flight
+Pouvez-vous me donner des informations sur les vols directs disponibles pour mon voyage?,book_flight
+Quels sont les moyens de transport aérien en classe économique que je peux trouver pour mon séjour?,book_flight
+Je souhaite réserver un vol direct pour ma prochaine destination.,book_flight
+Est-ce que vous pouvez m'aider à trouver un vol sans escale pour mon séjour à venir?,book_flight
+Je cherche des options de voyage en avion en classe économique pour mes prochaines vacances.,book_flight
+Pouvez-vous me suggérer des choix de vol en classe économique pour mon prochain déplacement?,book_flight
+J'aimerais planifier un vol en classe économique pour mes prochaines vacances.,book_flight
+Est-ce que vous avez des recommandations de vol en classe économique pour mon voyage à venir?,book_flight
+Je suis à la recherche d'options de voyage en avion en classe économique pour mes prochaines vacances.,book_flight
+Pouvez-vous me donner des informations sur les vols en classe économique disponibles pour mon séjour?,book_flight
+Quels sont les moyens de transport aérien que je peux trouver en classe économique pour mon voyage?,book_flight
+Quel temps fait-il aujourd'hui?,out_of_scope
+Pouvez-vous m'aider à trouver un restaurant près de chez moi?,out_of_scope
+"J'ai perdu mes clés, que dois-je faire?",out_of_scope
+Est-ce que vous pouvez me recommander un bon film à regarder?,out_of_scope
+Comment puis-je réparer mon ordinateur qui ne démarre pas?,out_of_scope
+J'ai besoin de conseils pour choisir un cadeau d'anniversaire.,out_of_scope
+Quelle est la recette d'une soupe de tomates maison?,out_of_scope
+Pouvez-vous me donner des informations sur les meilleures applications de fitness?,out_of_scope
+"J'ai des problèmes de sommeil, que puis-je faire pour mieux dormir?",out_of_scope
+Comment puis-je apprendre à jouer de la guitare?,out_of_scope
+Pouvez-vous me dire comment fonctionne la bourse?,out_of_scope
+J'aimerais des recommandations de livres à lire cet été.,out_of_scope
+Est-ce que vous pouvez me donner des conseils pour améliorer ma concentration?,out_of_scope
+Je cherche des idées pour décorer ma chambre.,out_of_scope
+Comment puis-je faire pour économiser de l'argent au quotidien?,out_of_scope
+Pouvez-vous me recommander des podcasts intéressants à écouter?,out_of_scope
+"J'ai des douleurs musculaires, que devrais-je faire pour les soulager?",out_of_scope
+Comment puis-je améliorer mes compétences en cuisine?,out_of_scope
+Pouvez-vous me dire comment fonctionne la cryptomonnaie?,out_of_scope
+Je recherche des idées de cadeaux pour un mariage.,out_of_scope
+"J'ai des problèmes de jardinage, que puis-je faire pour mes plantes?",out_of_scope
+Est-ce que vous pouvez me recommander des activités de loisirs pour les enfants?,out_of_scope
+Comment puis-je commencer à méditer?,out_of_scope
+Pouvez-vous me donner des informations sur les événements culturels à venir?,out_of_scope
+J'aimerais des conseils pour améliorer ma productivité au travail.,out_of_scope
+Quels sont les meilleurs sites pour apprendre une nouvelle langue en ligne?,out_of_scope
+Je cherche des idées pour organiser une fête d'anniversaire.,out_of_scope
+Comment puis-je réduire mon empreinte carbone au quotidien?,out_of_scope
+Pouvez-vous me recommander des livres de développement personnel?,out_of_scope
+"J'ai des problèmes de gestion du temps, que devrais-je faire?",out_of_scope
+Est-ce que vous pouvez me donner des informations sur les festivals de musique locaux?,out_of_scope
+Quels sont les meilleurs endroits pour observer les étoiles près d'ici?,out_of_scope
+J'aimerais des conseils pour créer un site web.,out_of_scope
+Comment puis-je adopter un mode de vie plus sain?,out_of_scope
+Pouvez-vous me dire comment fonctionne la location de voitures?,out_of_scope
+Je recherche des idées pour un cadeau de Saint-Valentin.,out_of_scope
+"J'ai des problèmes de gestion du stress, que devrais-je faire?",out_of_scope
+Est-ce que vous pouvez me recommander des applications de voyage?,out_of_scope
+Comment puis-je organiser un événement caritatif?,out_of_scope
+Pouvez-vous me donner des informations sur les dernières tendances de la mode?,out_of_scope
+J'aimerais des conseils pour prendre de meilleures photos.,out_of_scope
+Quels sont les meilleurs endroits pour pratiquer le yoga près d'ici?,out_of_scope
+Je cherche des idées pour une soirée entre amis.,out_of_scope
+Comment puis-je améliorer mes compétences en négociation?,out_of_scope
+Pouvez-vous me recommander des films à regarder en famille?,out_of_scope

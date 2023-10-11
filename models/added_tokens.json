@@ -1,0 +1,10 @@
+{
+  "</s>": 6,
+  "</s>NOTUSED": 2,
+  "<mask>": 32004,
+  "<pad>": 1,
+  "<s>": 5,
+  "<s>NOTUSED": 0,
+  "<unk>": 3,
+  "<unk>NOTUSED": 4
+}
