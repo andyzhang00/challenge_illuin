@@ -7,7 +7,7 @@ import time
 
 # Check if the correct number of arguments is provided
 if len(sys.argv) != 2:
-    print('Usage: python inference.py "<verbatim>"')
+    print('Usage: python single_inference.py "<verbatim>"')
     sys.exit(1)
 
 # Load the tokenizer

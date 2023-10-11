@@ -8,7 +8,7 @@ from utils import convert_class_name_to_id, display_all_results_dnn
 
 # Check if the correct number of arguments is provided
 if len(sys.argv) != 2:
-    print('Usage: python inference.py <evaluation_set.csv>')
+    print('Usage: python evaluation.py <evaluation_set.csv>')
     sys.exit(1)
 
 # Load the tokenizer
