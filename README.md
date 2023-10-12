@@ -22,14 +22,16 @@ Il suffit alors de placer le fichier `pytorch_model.bin` dans le dossier `/model
 
 ## Utilisation
 
-Afin d'effectuer une inférence simple sur un verbatim donné, il suffit de lancer la commande suivante :
+Afin d'effectuer une inférence simple sur un verbatim donné, il suffit de se positionner dans le répertoire `src` de lancer la commande suivante :
 
 ``` shell
 python single_inference.py "<verbatim>"
 ```
 
-Afin d'effectuer une prédiction et une évaluation sur un dataset de test au format CSV, il suffit de lancer la commande suivante :
+Afin d'effectuer une prédiction et une évaluation sur un dataset de test au format CSV, il suffit de se positionner dans le répertoire `src` et de lancer la commande suivante :
 
 ``` shell
 python evaluation.py <test_set.csv>
 ```
+
+Les résultats des prédictions se situera dans le dossier `/results` au format CSV et les résultats de l'évaluation sera directement affiché dans le terminal.

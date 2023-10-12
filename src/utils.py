@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-This module contains various utility function such as model evaluation or prediction.
-Those functions are used in intention_detection.ipynb only
-"""
 from sklearn.metrics import accuracy_score, precision_score, recall_score
 from sklearn.metrics import f1_score, classification_report
 from sklearn.metrics import ConfusionMatrixDisplay

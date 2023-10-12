@@ -39,6 +39,15 @@ def main():
     class_names = list(model.config.id2label.values())
     display_all_results_dnn(y_test, y_pred, class_names)
 
+    # Converting the prediction ID to the class names
+    y_pred_class_names = [class_names[pred_index] for pred_index in y_pred]
+    evaluation_data['prediction'] = y_pred_class_names
+
+    # Saving the predictions in the /results folder
+    result_file_name = evaluation_set_path.split("/")[-1].replace(".csv", "_result.csv")
+    result_file_path = f"../results/{result_file_name}"
+    evaluation_data.to_csv(result_file_path, index=False)
+
 
 if __name__ == "__main__":
     main()

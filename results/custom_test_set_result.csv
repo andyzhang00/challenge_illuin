@@ -1,0 +1,11 @@
+text,label,prediction
+Comment se presenter en estpagnol,translate,translate
+c’est dangereux l’asie en ce moment ?,travel_alert,travel_alert
+mon sac n’est pas arrivé,lost_luggage,lost_luggage
+il est où mon avion ?,flight_status,flight_status
+"j’ai une pizza dans mon sac à dos, est-ce que c’est bon ?",carry_on,carry_on
+"j’aimerai bien aller deux semaines au pérou, mais je ne sais pas comment faire",travel_suggestion,travel_suggestion
+j’ai pas d’endroits où dormir,book_hotel,book_hotel
+c’est toi chatgpt ?,out_of_scope,out_of_scope
+je veux un jet privé pour l’italie,book_flight,book_flight
+comment dire bonjour au japon,translate,out_of_scope
