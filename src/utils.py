@@ -7,7 +7,7 @@ from sklearn.metrics import ConfusionMatrixDisplay
 def map_class_to_int(class_names):
     """
     Return a dictionary that map each class to a unique integer and
-    one other one that does the reverse mapping.
+    an other one that does the reverse mapping.
     Args:
         class_names : array containing all the class names
     Return:
