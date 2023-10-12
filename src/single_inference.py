@@ -5,29 +5,35 @@ from transformers import CamembertTokenizer, CamembertForSequenceClassification
 import numpy as np
 import time
 
-# Check if the correct number of arguments is provided
-if len(sys.argv) != 2:
-    print('Usage: python single_inference.py "<verbatim>"')
-    sys.exit(1)
 
-# Load the tokenizer
-tokenizer = CamembertTokenizer.from_pretrained("../models")
+def main():
+    # Check if the correct number of arguments is provided
+    if len(sys.argv) != 2:
+        print('Usage: python single_inference.py "<verbatim>"')
+        sys.exit(1)
 
-# Load the model
-model = CamembertForSequenceClassification.from_pretrained("../models")
+    # Load the tokenizer
+    tokenizer = CamembertTokenizer.from_pretrained("../models")
 
-# Start the inference and mesuring the time
-start_time = time.time()
+    # Load the model
+    model = CamembertForSequenceClassification.from_pretrained("../models")
 
-# Tokenizing the verbatim
-test_verbatim = sys.argv[1]
-encoded_test = tokenizer(test_verbatim, return_tensors='pt')
+    # Start the inference and mesuring the time
+    start_time = time.time()
 
-# Inference
-with torch.no_grad():
-    results = model(**encoded_test).logits
+    # Tokenizing the verbatim
+    test_verbatim = sys.argv[1]
+    encoded_test = tokenizer(test_verbatim, return_tensors='pt')
 
-print(model.config.id2label[int(np.argmax(results))])
+    # Inference
+    with torch.no_grad():
+        results = model(**encoded_test).logits
 
-inference_time = time.time() - start_time
-print(f"Inference time : {inference_time} s")
+    print(model.config.id2label[int(np.argmax(results))])
+
+    inference_time = time.time() - start_time
+    print(f"Inference time : {inference_time} s")
+
+
+if __name__ == "__main__":
+    main()
