@@ -9,7 +9,7 @@ Ces solutions utilisent en particulier une représentation des verbatim sous for
 
 ## Méthodes de Deep Learning - CamemBERT
 
-La seconde solution proposée dans le notebook `bert_intention_detection.ipynb` du répertoire `src`, est la plus performante est l'utilisation de réseaux de neurones du type BERT pour effectuer cette classification des verbatim.
+La seconde solution proposée dans le notebook `bert_intention_detection.ipynb` du répertoire `src`, est l'utilisation de réseaux de neurones du type BERT pour effectuer cette classification des verbatim et est la plus performante.
 Un modèle pré entrainé de CamemBERT (variante française de BERT) a été récupéré puis fine tuné sur nos données d'entraînements.
 
 Note : Le modèle pré entrainé étant trop lourd, il est téléchargeable sur le lien suivant :
