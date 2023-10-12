@@ -8,6 +8,12 @@ from utils import convert_class_name_to_id, display_all_results_dnn
 
 
 def main():
+    """
+    This function load the pretrained classification model inferences and evaluation on the
+    given csv dataset
+    Args:
+    Return:
+    """
     # Check if the correct number of arguments is provided
     if len(sys.argv) != 2:
         print('Usage: python evaluation.py <evaluation_set.csv>')

@@ -7,6 +7,11 @@ import time
 
 
 def main():
+    """
+    This function load the pretrained classification model and performs a single inference on the given verbatim
+    Args:
+    Return:
+    """
     # Check if the correct number of arguments is provided
     if len(sys.argv) != 2:
         print('Usage: python single_inference.py "<verbatim>"')
