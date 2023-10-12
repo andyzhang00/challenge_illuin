@@ -18,7 +18,7 @@ Note : Le modèle pré entrainé étant trop lourd, il est téléchargeable sur 
 | :-- | :-: |
 | CamembertForSequenceClassification | [**Lien**](https://filesender.renater.fr/?s=download&token=0d52833d-41a0-4f26-85ef-c3094d2dc42c) |
 
-Il suffit alors de placer le fichier `pytorch_model.bin` dans le dossier `/models` avant de pouvoir exécuter les scripts `evaluation.py' et 'single_inference.py`
+Il suffit alors de placer le fichier `pytorch_model.bin` dans le dossier `/models` avant de pouvoir exécuter les scripts `evaluation.py` et `single_inference.py`
 
 ## Installation
 
