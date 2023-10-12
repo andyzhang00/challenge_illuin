@@ -34,7 +34,8 @@ def main():
     with torch.no_grad():
         results = model(**encoded_test).logits
 
-    print(model.config.id2label[int(np.argmax(results))])
+    predicted_class = model.config.id2label[int(np.argmax(results))]
+    print(predicted_class)
 
     inference_time = time.time() - start_time
     print(f"Inference time : {inference_time} s")
